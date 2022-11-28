@@ -1,1 +1,2 @@
-# Configuration files for Qtile window manager, URxvt terminal emulator, and Ly session manager.
+## Configuration files for Qtile window manager, URxvt terminal emulator, and Ly session manager.
+
