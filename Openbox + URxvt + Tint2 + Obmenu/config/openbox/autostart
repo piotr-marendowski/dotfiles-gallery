@@ -1,0 +1,5 @@
+tint2 &
+picom --experimental-backends &
+nitrogen --restore &
+firefox &
+urxvt &
