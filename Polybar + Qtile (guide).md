@@ -25,7 +25,7 @@ polybar bar1 2>&1 | tee -a /tmp/polybar.log & disown
 
 echo "Polybar launched..."
 ```
-### REMEMBER TO MAKE IT EXECUTEABLE: chmod +x lauch.sh
+### REMEMBER TO MAKE IT EXECUTEABLE: chmod +x launch.sh
 
 ### Qtile config:
 #### To "Reload the config" key add lazy.spawn with path to launch.sh:
