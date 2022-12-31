@@ -4,10 +4,10 @@
 
 ### Polybar config:
 #### To enable system tray, and move it by x to right
-'''
+```
 tray-position = center
 tray-offset-x = 500
-'''
+```
 
 ### Create a file in polybar config directory:
 #### launch.sh - which could be standard launch script from official polybar wiki
