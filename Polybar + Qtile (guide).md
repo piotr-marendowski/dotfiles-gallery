@@ -1,4 +1,4 @@
-# Quick guide to setting up Qtile with Polybar as main bar
+# Quick guide to setting up Qtile with Polybar as main a bar
 
 ### This little guide shows how to get rid of the Qtile bar and instead use Polybar. Its not the best solution, but it works for me.
 
