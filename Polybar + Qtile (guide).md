@@ -31,7 +31,7 @@ echo "Polybar launched..."
 #### To "Reload the config" key add lazy.spawn with path to launch.sh:
 ```
 Original: Key([mod, "control"], desc="Reload the config"),
-Replace with: Key([mod, "control"], "r", lazy.reload_config(), lazy.spawn("~/.config/polybar/launch.sh"), desc="Reload the config"),
+Replace with: Key([mod, "control"], "r", lazy.reload_config(), lazy.spawn("/home/piotr/.config/polybar/launch.sh"), desc="Reload the config"),
 ```
 #### Delete everything in screens
 ```
