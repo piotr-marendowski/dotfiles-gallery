@@ -1,9 +1,10 @@
 ## Easy multihead Qtile config with many options 
 
-### Bar in main monitor
+Bar in main monitor:
 ![Screenshot 1](images/screenshot1.png)
-### Bar in second monitor
+Bar in second monitor:
 ![Screenshot 2](images/screenshot2.png)
+Full view:
 ![Screenshot 3](images/screenshot3.png)
 ![Screenshot 4](images/screenshot4.png)
 
@@ -43,7 +44,7 @@
 
 ## Configuration
 ![Screenshot 5](images/screenshot5.png)
-If you want [gsimplecal](https://github.com/dmedvinsky/gsimplecal) to open below clicked date, configure position of window in gsimplecal configuration:
+<br>If you want [gsimplecal](https://github.com/dmedvinsky/gsimplecal) to open below clicked date, configure position of window in gsimplecal configuration:
 ```
 mainwindow_position = none
 mainwindow_xoffset = 1642
@@ -58,7 +59,6 @@ Every action from default qtile config is integrated in here for general use, bu
 - "mod" + "s" - To open Rofi to easy search for applications.
 - "mod" + "c" - To open Vscodium.
 - "mod" + "f" - To open Firefox.
-- "mod" + "v" - To open Gvim editor.
 - "mod" + "g" - To open Pavucontrol.
 
 ## Mouse callbacks
