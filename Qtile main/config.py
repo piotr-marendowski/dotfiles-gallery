@@ -268,7 +268,6 @@ screens = [
                 fontsize=37,
             ),
             widget.CheckUpdates(
-                update_interval=1800,       # in seconds (0.5h)
                 execute="alacritty -e sudo pacman -Syu",
                 background=colors[4],
                 foreground=colors[3],
