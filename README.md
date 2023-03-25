@@ -1,11 +1,13 @@
 # arch-dotfiles
 My Arch Linux configuration files for various window managers
 
-### MAIN QTILE:
+### Main Qtile (Tokyo Night):
+![main](screenshots/tokyonight.png)
+### Main Qtile (Catppuccin):
 ![main](screenshots/main.png)
-### POWERLINE QTILE:
+### Previous Qtile:
 ![main](screenshots/powerline.png)
-### FIRST QTILE:
-![main](screenshots/first_qtile.png)
-### OPENBOX:
+### Openbox:
 ![main](screenshots/openbox.png)
+### Qtile:
+![main](screenshots/first_qtile.png)
