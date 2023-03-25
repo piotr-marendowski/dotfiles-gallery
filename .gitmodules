@@ -1,3 +1,0 @@
-[submodule "Main Qtile"]
-	path = main-qtile
-	url = https://github.com/piotr-marendowski/qtile-main-config
