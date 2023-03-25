@@ -11,3 +11,5 @@ My Arch Linux configuration files for various window managers
 ![main](screenshots/openbox.png)
 ### Qtile:
 ![main](screenshots/first_qtile.png)
+
+For Picom I use this fork: [link](https://github.com/jonaburg/picom), config is from there.
