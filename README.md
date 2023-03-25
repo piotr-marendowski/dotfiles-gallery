@@ -1,5 +1,5 @@
 # arch-dotfiles
-My Arch Linux configuration files for various window managers
+My Arch Linux configuration files for various window managers and programs that I use on my machine.
 
 ### Main Qtile (Tokyo Night):
 ![main](screenshots/tokyonight.png)
